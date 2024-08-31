@@ -46,7 +46,8 @@ if section == "Personal Data":
         st.subheader("Personal Data")
         st.write("Name: Jessrey Vincent P. Garrido")
         st.write("Age: 24")
-        st.write("Address: Cebu City, Philippines")
+        st.write("Birthday: March 21, 2000")
+        st.write("Address: Labangon, Cebu City, Cebu, 6000")
     
     with tab2:
         st.markdown(
